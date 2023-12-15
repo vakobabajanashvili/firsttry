@@ -1,0 +1,101 @@
+.first_box {
+    background-color: black;
+    margin-top: -1%;
+    margin-left: -10%;
+    width: 110.6%;
+    height: 50px;
+}
+
+.shop_orera {
+    color: white;
+    margin-top: 1px;
+    margin-left: 50%;
+    font-size: 35px;
+}
+
+.second_box {
+    display: flex;
+    background-color: white;
+    margin-left: -10%;
+    width: 110.6%;
+    height: 25px;
+}
+
+.cart {
+    color: black;
+    margin-left: 75%;
+    text-decoration: none;
+    font-family: serif;
+    font-size: 20px;
+
+}
+
+.shop {
+    color: black;
+    margin-left: 3%;
+    text-decoration: none;
+    font-family: serif;
+    font-size: 20px;
+}
+
+.account {
+    color: black;
+    margin-left: 3%;
+    text-decoration: none;
+    font-family: serif;
+    font-size: 20px;
+}
+
+.second_box1 {
+    background-color: white;
+    margin-left: -10%;
+    width: 110.6%;
+    height: 100%;
+}
+
+.home {
+    color: black;
+    margin-left: 40%;
+    text-decoration: none;
+    font-family: serif;
+}
+
+.parts {
+    color: black;
+    margin-left: 3%;
+    text-decoration: none;
+    font-family: serif;
+}
+
+.reviews {
+    color: black;
+    margin-left: 3%;
+    text-decoration: none;
+    font-family: serif;
+}
+
+.about_us {
+    color: black;
+    margin-left: 3%;
+    text-decoration: none;
+    font-family: serif;
+}
+
+.contact {
+    color: black;
+    margin-left: 3%;
+    text-decoration: none;
+    font-family: serif;
+}
+
+.third_box {
+    background-color: #dedede;
+    margin-left: -10%;
+    width: 110.6%;
+    height: 600px;
+}
+
+.mb {
+    width: auto;
+    height: 100%;
+}
